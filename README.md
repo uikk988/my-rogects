@@ -25,11 +25,10 @@ Which problems does your idea solve? How common or frequent is this problem? Wha
 
 Everyone can use Emotional AI. For example the government can use emotional AI for economics and conflict and also see how their citizens feel about the current status of the country and what could be improved. Or someone can use it to learn how to communicate better with other people. Companies can use this to advertise a product and see how people like about the product and what they dont like about the product
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
+
 ![Monalisa](https://github.com/uikk988/my-rogects/blob/main/Screen%20Shot%202021-07-25%20at%202.59.47%20PM.png)
 
-If you need to resize images, you have to use an HTML tag, like this:
+
 <img src="https://github.com/uikk988/my-rogects/blob/main/Screen%20Shot%202021-07-25%20at%202.59.47%20PM.png" width="300">
 
 This is how you create code examples:
