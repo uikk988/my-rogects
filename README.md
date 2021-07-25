@@ -27,10 +27,10 @@ Everyone can use Emotional AI. For example the government can use emotional AI f
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+![Monalisa](https://github.com/uikk988/my-rogects/blob/main/Screen%20Shot%202021-07-25%20at%202.59.47%20PM.png)
 
 If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+<img src="https://github.com/uikk988/my-rogects/blob/main/Screen%20Shot%202021-07-25%20at%202.59.47%20PM.png" width="300">
 
 This is how you create code examples:
 ```
