@@ -27,9 +27,13 @@ Everyone can use Emotional AI. For example the government can use emotional AI f
 
 
 ![Monalisa](https://github.com/uikk988/my-rogects/blob/main/Screen%20Shot%202021-07-25%20at%202.59.47%20PM.png)
+![Monalisa](https://github.com/uikk988/my-rogects/blob/main/Screen%20Shot%202021-07-25%20at%203.00.02%20PM.png)
 
 
 <img src="https://github.com/uikk988/my-rogects/blob/main/Screen%20Shot%202021-07-25%20at%202.59.47%20PM.png" width="300">
+
+<img src="https://github.com/uikk988/my-rogects/blob/main/Screen%20Shot%202021-07-25%20at%203.00.02%20PM.png" width="300">
+
 
 This is how you create code examples:
 ```
