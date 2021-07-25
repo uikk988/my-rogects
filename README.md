@@ -8,22 +8,22 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+My project is to inform you about the importance of Emotional Intelligence. Emotion Intelligence basically is an AI that can understand how to communicate to people or find signs shown by the human body to determine the emotion they are feeling.
 
 
 ## Background
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+
+* Marketing: Marketers can use emotional AI to see how the customers feel about their product.
+* Communication: Emotional AI can teach people how to easily communicate from one to another by using EI
+* Economic Relations: Emotional AI can find solutions to solve conflicts between countries
 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+Everyone can use Emotional AI. For example the government can use emotional AI for economics and conflict and also see how their citizens feel about the current status of the country and what could be improved. Or someone can use it to learn how to communicate better with other people. Companies can use this to advertise a product and see how people like about the product and what they dont like about the product
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
@@ -52,8 +52,7 @@ main()
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
+If I were to continue this project and make it bigger. I would go around to reliable sources or go to people who study in the area to collect data and apply it to my project.
 [Twitter API](https://developer.twitter.com/en/docs)
 
 | Syntax      | Description |
@@ -63,12 +62,10 @@ If you need to use links, here's an example:
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
-
+The project will not solve everything but give people a better view on how to solve the problem.
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
+If my project were to grow big, I would need clients to try it out and see if they like it and reccomend it to people or friends and family interested in this project to join in and help out
 
 ## Acknowledgments
 
