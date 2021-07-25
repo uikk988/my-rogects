@@ -67,7 +67,7 @@ The project will not solve everything but give people a better view on how to so
 
 If my project were to grow big, I would need clients to try it out and see if they like it and reccomend it to people or friends and family interested in this project to join in and help out
 
-## Acknowledgments
+## Acknowledgmen ts
 
 * list here the sources of inspiration 
 * do not use code, images, data etc. from others without permission
